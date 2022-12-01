@@ -2,7 +2,7 @@
 
 int delta(B);
 int a;
-int b;
+int b, c;
 
 int main(){
 
